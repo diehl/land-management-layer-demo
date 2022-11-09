@@ -1,3 +1,5 @@
+import './style.css';
+
 mapboxgl.accessToken =
   'pk.eyJ1IjoiZGllaGwiLCJhIjoiY2tmdWp2cGIzMGoxNTJwcWY3bjR6M3cxdSJ9.QPtJOfheB5Z2S38uVkZCCA';
 
